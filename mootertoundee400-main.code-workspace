@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../OWN-GAME-main/Zombie Invasion"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mootertoundee400-main"
+	}
+}
